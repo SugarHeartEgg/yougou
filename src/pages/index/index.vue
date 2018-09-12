@@ -3,7 +3,7 @@
     <div class="header">
       <!-- 搜索框 -->
       <icon type="search" size="16"></icon>
-      <input type="text" placeholder="搜索">
+      <input type="text" placeholder="俊武好帅">
     </div>
   </div>
 </template>
